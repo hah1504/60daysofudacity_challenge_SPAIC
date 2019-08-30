@@ -310,13 +310,13 @@ completed ***lesson 5.1 to 5.5***
 * worked on my Showcase project Guide!
 
 # Day 26 | 60
-* Made it to the *Honorable Mentions list* Ranked 14th for the Showcase Project with - ***Real Time Object Detection with Pytorch***
+* Made it to the *Honorable Mentions list* **Ranked 14th** for the Showcase Project with - ***Real Time Object Detection with Pytorch***
   * Link: https://github.com/aksht94/UdacityOpenSource/tree/master/Shaistha/real_time_object_detection_using_pytorch
      * All the project  submitted for the challenge can be found here
          * Link: https://github.com/aksht94/UdacityOpenSource/
 * Updated my github repository for 60daysofudacity challenge!
 * Submitted the form with 60daysofudacity challenge!
-* Updated my github repo for Deep-learning-with-Pytorch 
+* Updating my github repo for Deep-learning-with-Pytorch 
   * Link: https://github.com/shaistha24/Deep-learning-with-Pytorch
   
   
@@ -324,8 +324,41 @@ completed ***lesson 5.1 to 5.5***
   
  # Projects
 This section contains the projects developed during the Challenge.
-|        Project Name      |       Link      |      Lesson     |         Description       |
-|--------------------------|-----------------|-----------------|---------------------------|
+
+|        Project Name      |            Description                    |
+|--------------------------|-------------------------------------------|
+|__Classifying MNIST__| Neural Network project for MNIST dataset. |
+|__Cat and dog image Classifier__|  Learnt how to use pre-trained networks to solved challenging problems in computer vision. Specifically, you'll use networks trained on ImageNet available from torchvision.  | 
+|__Classifying Fashion-MNIST__| Build and train a neural network using FMNIST dataset. | 
+|__MNIST_GAN__|  Building a generative adversarial network (GAN) trained on the MNIST dataset.|
+|__Multi-Layer Perceptron, MNIST__| Train an MLP to classify images from the MNIST database hand-written digit database.|
+|__Flower power__| Using VGGNet to classify images of flowers.|
+|__Predicting Student Admissions with Neural Networks__| Neural network implementation. |
+|__CNN-CIFAR-10 database Classifier__|CNN to classify images from the CIFAR-10 database. |
+|__Sentiment_Classification_Projects__| Practicing Sentiment Classification & How To "Frame Problems" for a Neural Network
+by Andrew Trask |
+|__Sentiment Analysis_RNN__| implement a recurrent neural network that performs sentiment analysis. |
+|__Skip-gram Word2Vec__|  Implement the Word2Vec algorithm using the skip-gram architecture and learn about embedding words for use in natural language processing. |
+|__Character-Level LSTM__| Constructing a character-level LSTM with PyTorch. The network will train character by character on some text, then generate new text character by character. |
+|__CycleGAN-Image-to-Image Translation__| Define and train a CycleGAN to read in an image from a set 𝑋.X and transform it so that it looks as if it belongs in set 𝑌. Y Specifically, looking at a set of images of Yosemite national park taken either during the summer of winter. The seasons are our two domains! |
+|__DCGAN__| Training DCGAN on the Street View House Numbers (SVHN) dataset. These are color images of house numbers collected from Google street view. SVHN images are in color and much more variable than MNIST. |
+|__Differential Privacy in the context of a database query-projects__|learn how to know whether a database query over such a small database is differentially private or not - and more importantly - what techniques are at our disposal to ensure various levels of privacy.|
+|__Create a Differentially Private Query__| create a query function which sums over the database and adds just the right amount of noise such that it satisfies an epsilon constraint.|
+|__Differentially Private Final Project__| Train a DP model using this PATE method on the MNIST dataset|
+|__Federated Learning__|  Techniques for training Deep Learning models on data to which you do not have access. Remote Access.|
+|__Federated Learning with a Trusted Aggregator__|  trusted aggregator : a neutral 3rd party who has a machine that we can trust to not look at the gradient when performing the aggregation.Rather than depennding on the db owner who might be inlined to other data partners , we can choose a 3rd neutral party ...anyone in the planet to larger pool to find the trust worthy person. Send all their grad to neutarl 3rd party|
+|__Securing Federated Learning__| Implements final project for Lesson 8, where secure aggregation is added to Federated Learning.|
+|__Encrypted Deep Learning__| Implements final project for Lesson 9, where encryption is added to Federated Learning.|
+|__Encrypted Deep Learning in Keras__| Same using Keras|
+|__Private Prediction using Syft Keras - Serving (Client)__|  To the above keras project, securing it with Syft Keras, and make predictions|
+|__Predicting Bike Sharing__| Neural network and use it to predict daily bike rental ridership.|
+|__Dog Identification-CNN__|   Algorithm for a Dog Identification App |
+|__Face Generation__|  Train a DCGAN on a dataset of faces.Goal is to get a generator network to generate new images of faces that look as realistic as possible! |
+|__TV Script Generation__|  Generate Seinfeld TV scripts using RNNs.The Neural Network will generate a new ,"fake" TV script, based on patterns it recognizes in this training data. |
+|__Showcase-Project 1 - Real Time Object Detection with Python__| All the info can be found here: https://github.com/aksht94/UdacityOpenSource/tree/master/Shaistha/real_time_object_detection_using_pytorch |
+|__Showcase-Project 2 - Guide__ |  All the info can be found here: https://github.com/aksht94/UdacityOpenSource/tree/master/Shaistha/guide |
+
+
 
   
   
